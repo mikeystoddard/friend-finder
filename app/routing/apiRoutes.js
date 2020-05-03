@@ -34,7 +34,7 @@ module.exports = function (app) {
             }
         }
         // appending data to friends.js file
-        friends.push(newuserData)
+        friends.push(newuserData);
         // returning the best match to the pop up 
         res.json(bestMatch);
     })

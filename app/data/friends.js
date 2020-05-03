@@ -1,7 +1,7 @@
 var friendsArray = [
     {
         name: "Leslie",
-        photo: "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.dissentmagazine.org%2Fwp-content%2Ffiles_mf%2F1553109042shenkweb.png",
+        photo: "https://media.gqindia.com/wp-content/uploads/2019/12/parks-and-recreation-400x400.jpg",
         scores: [
             "1",
             "1",
@@ -17,7 +17,7 @@ var friendsArray = [
     },
     {
         name: "Ben",
-        photo: "https://www.tvovermind.com/wp-content/uploads/2017/05/Ben-rdl3u6.png",
+        photo: "https://i.pinimg.com/236x/05/89/8d/05898dc0764c5fb59cd9ee1105ebd9c7--ben-wyatt-parks-and-recreation.jpg",
         scores: [
             "2",
             "2",
@@ -33,7 +33,7 @@ var friendsArray = [
     },
     {
         name: "Ron",
-        photo: "https://media1.popsugar-assets.com/files/thumbor/vWG2T9tj_Tpd0kH94n94_q21s4s/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg",
+        photo: "https://i.imgflip.com/qi3gy.jpg",
         scores: [
             "5",
             "4",
@@ -49,7 +49,7 @@ var friendsArray = [
     },
     {
         name: "Donna",
-        photo: "https://upload.wikimedia.org/wikipedia/en/0/0a/Donna_Meagle.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Donna_Meagle.jpg/250px-Donna_Meagle.jpg",
         scores: [
             "3",
             "5",
@@ -65,7 +65,7 @@ var friendsArray = [
     },
     {
         name: "Ann",
-        photo: "https://upload.wikimedia.org/wikipedia/en/3/33/Ann_Perkins.jpg",
+        photo: "https://vignette.wikia.nocookie.net/parksandrecreation/images/3/33/Ann_Perkins.jpg/revision/latest/top-crop/width/360/height/360?cb=20180116070354",
         scores: [
             "2",
             "3",
